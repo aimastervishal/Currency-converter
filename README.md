@@ -15,7 +15,7 @@ Convert between multiple currencies with live exchange rates and a user-friendly
 ---
 
 ## 🚀 Live Demo
-mycoverter.netlify.app
+maginative-florentine-fe22cb.netlify.app
 [Live Demo](#)
 
 ---
